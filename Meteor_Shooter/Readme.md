@@ -19,6 +19,8 @@ I will use the python programming language to build the game and in it I will be
 Here is a demo video showing the game:
 https://drive.google.com/file/d/1o6RTwp0pAufTFsyXO7nyp39-ZlWOHfYU/view?usp=sharing
 
+![Screenshot 2023-04-16 235606](https://user-images.githubusercontent.com/112710411/232345251-6855aca7-5a9f-4bef-9c1a-66bedc6e38e9.png)
+![Screenshot 2023-04-16 235446](https://user-images.githubusercontent.com/112710411/232345259-aae9fb06-bb78-43cf-9499-7b0c53332c5e.png)
 
 
 ## GOALS
